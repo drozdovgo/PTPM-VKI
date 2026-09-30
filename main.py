@@ -1,7 +1,7 @@
 import logging
 import sys
 
-from triangle import classify_triangle
+from src.triangle import classify_triangle
 
 
 def Main():
